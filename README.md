@@ -1,4 +1,5 @@
-![Screenshot 2022-06-10 171100](https://user-images.githubusercontent.com/84043023/173058680-1cb252de-0e0e-484b-9d2a-7fcbe42eacb2.jpg)
+![Screenshot 2022-06-10 172222](https://user-images.githubusercontent.com/84043023/173058907-4100b83f-707c-4be4-8621-158eae548da6.jpg)
+
 # Hi there  👋 
 ### my self Rudransh Srivastava a btech Information Technology Student
 ### 🌱 A Data Science and Machine learning Enthusiast
